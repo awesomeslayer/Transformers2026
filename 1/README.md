@@ -8,7 +8,7 @@ Follow these steps to reproduce the results:
 
 1.  **Clone the project**:
     ```bash
-    git clone https://github.com/ВашеИмя/Transformers2026.git
+    git clone https://github.com/awesomeslayer/Transformers2026.git
     cd Transformers2026/1
     ```
 
