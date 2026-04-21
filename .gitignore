@@ -1,0 +1,13 @@
+# Модели и веса
+results/
+**/results/
+__pycache__/
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Датасеты (если они огромные)
+1/DimABSA2026/
+EOF
+inspect_dataset.py
+1/context.py
+1/context.txt
